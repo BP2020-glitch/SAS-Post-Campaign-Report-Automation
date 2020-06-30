@@ -1,4 +1,4 @@
- ## /*Post-campaign Revenue Analysis*/
+  /*Post-campaign Revenue Analysis*/
 
   /*Report automating using Macro variable*/
   %let mydata= %str(/folders/myfolders/sasdata/reportdata); 
